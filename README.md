@@ -1,5 +1,5 @@
 # anti-afk
-AntiAFK for wow classic，魔兽怀旧服防暂离
+魔兽怀旧服防暂离
 # 准备工作
 1.创建宏，并设置快捷键为n，宏命令如下
 >/cast 急救
